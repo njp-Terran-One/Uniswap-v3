@@ -5,7 +5,7 @@ uniswap simulation
 
 The Idea
 
-Each user ID has a Nested Dictionary (only uses relevant token pairs): {[token pair]:[tick1,tick2,liquidity,tick3,tick4,liquidity,...]}
+Each user ID has a Dictionary (only uses relevant token pairs): {[token pair]:[tick1,tick2,liquidity,tick3,tick4,liquidity,...]}
 
 State (for all token pairs): {[token pair]}:{[L,sqrt(P),tick]}
 
